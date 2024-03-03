@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ProyekAkhirSederhana</string>
+    <string name="uni_name">Nama Universitas</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="profile">Profile</string>
+    <string name="ikhlash">Muhammad Ikhlash</string>
+    <string name="email">muhammadikhlash414@gmail.com</string>
+    <string name="detail_ui">Universitas Indonesia disingkat sebagai UI, adalah sebuah perguruan tinggi di Indonesia. Kampus utamanya terletak di bagian Utara dari Depok, Jawa Barat.</string>
+    <string name="ui">Universitas Indonesia</string>
+    <string name="alamat">Alamat:</string>
+    <string name="alamat_detail">Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424</string>
+    <string name="telepon">Telepon:</string>
+    <string name="telepon_no">(021) 7867222</string>
+    <string name="akreditasi">Akreditasi</string>
+    <string name="a">A</string>
+    <string name="akreditasi_a">Akreditasi A</string>
+    <string name="sejarah_ui">Sejarah Universitas Indonesia dimulai dari tahun 1849, saat Pemerintah Kolonial Belanda membangun sebuah sekolah tinggi ilmu kesehatan. Nama UI sendiri baru resmi digunakan sejak tahun 1950, itupun masih menggunakan bahasa Belanda, yakni Universiteit Indonesia.\nSaat ini, UI memiliki 14 fakultas, dengan lebih dari 291 program studi.Menjadi universitas terbaik di Indonesia, menjadikan UI sebagai tujuan favorit untuk melanjutkan pendidikan tinggi. Tingkat persaingan untuk masuk ke UI juga terbilang sangat ketat lho. Setiap tahunnya, rata-rata persentase pendaftar dan diterima untuk program S1 Reguler berada pada kisaran 3%.</string>
+    <string name="universitas_indonesia">Universitas Indonesia</string>
+    <string name="fakultas_dan_jurusan">Fakultas dan Jurusan</string>
+    <string name="fakultas_ilmu_komputer">Fakultas Ilmu Komputer</string>
+    <string name="sistem_informasi">Sistem Informasi</string>
+    <string name="ilmu_komputer">Ilmu Komputer</string>
+    <string name="fakultas_kedokteran">Fakultas Kedokteran</string>
+    <string name="gizi">Gizi</string>
+    <string name="kedokteran">Kedokteran</string>
+</resources>

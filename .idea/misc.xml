@@ -1,0 +1,26 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ikhlash/Computer Sience/Android/dicoding/Android Pemula/ProyekAkhirSederhana/app/src/main/res/layout/activity_about.xml" value="0.17552083333333332" />
+        <entry key="..\:/Ikhlash/Computer Sience/Android/dicoding/Android Pemula/ProyekAkhirSederhana/app/src/main/res/layout/activity_main.xml" value="0.17083333333333334" />
+        <entry key="..\:/Ikhlash/Computer Sience/Android/dicoding/Android Pemula/ProyekAkhirSederhana/app/src/main/res/layout/activity_splash_screen.xml" value="0.17135416666666667" />
+        <entry key="..\:/Ikhlash/Computer Sience/Android/dicoding/Android Pemula/ProyekAkhirSederhana/app/src/main/res/layout/activity_ui.xml" value="0.17135416666666667" />
+        <entry key="..\:/Ikhlash/Computer Sience/Android/dicoding/Android Pemula/ProyekAkhirSederhana/app/src/main/res/layout/item_row_uni.xml" value="0.17083333333333334" />
+        <entry key="..\:/Ikhlash/Computer Sience/Android/dicoding/ProyekAkhirSederhana/app/src/main/res/drawable/button_text.xml" value="0.1" />
+        <entry key="..\:/Ikhlash/Computer Sience/Android/dicoding/ProyekAkhirSederhana/app/src/main/res/layout/activity_about.xml" value="0.17135416666666667" />
+        <entry key="..\:/Ikhlash/Computer Sience/Android/dicoding/ProyekAkhirSederhana/app/src/main/res/layout/activity_main.xml" value="0.1703125" />
+        <entry key="..\:/Ikhlash/Computer Sience/Android/dicoding/ProyekAkhirSederhana/app/src/main/res/layout/activity_splash_screen.xml" value="0.3333333333333333" />
+        <entry key="..\:/Ikhlash/Computer Sience/Android/dicoding/ProyekAkhirSederhana/app/src/main/res/layout/activity_ui.xml" value="0.16666666666666666" />
+        <entry key="..\:/Ikhlash/Computer Sience/Android/dicoding/ProyekAkhirSederhana/app/src/main/res/layout/item_row_uni.xml" value="0.1703125" />
+        <entry key="..\:/Ikhlash/Computer Sience/Android/dicoding/ProyekAkhirSederhana/app/src/main/res/menu/menu_main.xml" value="0.17135416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
