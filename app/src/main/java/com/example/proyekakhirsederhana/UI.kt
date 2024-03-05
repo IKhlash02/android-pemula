@@ -7,6 +7,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import com.example.proyekakhirsederhana.databinding.ActivityUiBinding
 
 class UI : AppCompatActivity() {
 
@@ -15,6 +16,8 @@ class UI : AppCompatActivity() {
     companion object{
        const val UNI_DATA = "uni_data"
     }
+
+//    private lateinit var binding: ActivityUiBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
